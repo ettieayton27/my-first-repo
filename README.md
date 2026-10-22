@@ -2,6 +2,12 @@
 
 A tiny Python project made during **Lab 2** to practise git and GitHub.
 
+## Author
+Ettie Ayton
+
+## What I learned
+So much
+
 ## How to run
 
 ```
