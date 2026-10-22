@@ -1,2 +1,5 @@
-Lunch today: pizza
-# TODO step 1: %%writefile lunch.txt (pizza)
+Lunch today: sushi
+
+!git ad lunch.txt
+!git commit -m "sushi"
+# TODO step 2: %%writefile lunch.txt (sushi)
