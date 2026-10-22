@@ -1,3 +1,4 @@
-Lunch today: pasta
+Lunch today: Bananas# TODO step 5: %%writefile lunch.txt with your resolved version
 
-# TODO step 3: %%writefile lunch.txt (pasta)
+
+# TODO step 2: %%writefile lunch.txt (sushi)
