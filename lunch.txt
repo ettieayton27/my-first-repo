@@ -1,0 +1,2 @@
+Lunch today: pizza
+# TODO step 1: %%writefile lunch.txt (pizza)
